@@ -54,3 +54,6 @@ After running dofiles: 0_master, 1_preparation, 2_weights and 3_sample_standardi
 | xDataset_models.dta | Main dataset containing all variables described above             |
 
 
+### Software 
+
+- Stata 
